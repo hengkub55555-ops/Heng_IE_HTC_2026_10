@@ -1,0 +1,7 @@
+{
+  "name": "Line Routing & Production Time Manager",
+  "description": "ระบบจัดเก็บและวิเคราะห์ข้อมูล Routing By Line คำนวณ MC Time และ Labor Time พร้อม Dashboard แบบ Real-time และระบบแจ้งเตือน LINE Notification",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
